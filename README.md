@@ -1,1 +1,1 @@
-# Linear-dradient
+# Linear-gradient
